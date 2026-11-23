@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**abdulrehmanjavd/abdulrehmanjavd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Abdul-Rehman Javed 👋
 
-Here are some ideas to get you started:
+### Computer Science Student | Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+I'm a Computer Science student at the University of Lahore, passionate about technology, programming, and building innovative solutions.
+
+### 🚀 About Me
+- 🎓 Studying BS Computer Science
+- 💻 Interested in Software Development and Web Development
+- 🤖 Exploring Artificial Intelligence and Emerging Technologies
+- 🌱 Always learning and improving my technical skills
+- 🎯 Focused on building practical projects and gaining experience
+
+### 🛠️ Areas of Interest
+- Software Development
+- Web Development
+- Artificial Intelligence
+- Database Management
+- Programming & Problem Solving
+
+### 📂 My Projects
+Coming soon! I'm working on adding my projects to GitHub.
+
+### 🤝 Let's Connect
+- GitHub: https://github.com/abdulrehmanjavd
+
+---
+⭐ Thanks for visiting my profile!
